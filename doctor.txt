@@ -8,3 +8,7 @@ Doctor ID: D102
 Doctor Name: Dr. Priya
 Specialization: Neurologist
 Experience: 8 Years
+Doctor ID: D103
+Doctor Name: Dr. Karthik
+Specialization: Orthopedic
+Experience: 12 Years
